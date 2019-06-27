@@ -1,8 +1,8 @@
 {
-  "name": "Mgc-Client",
+  "name": "mgc-client",
   "description": "Client for Mgc-Server",
   "author": "Felix Lee(ustcerlf@gmail.com)",
-  "version": "6.7.7",
+  "version": "6.7.8",
   "license": "MIT",
   "keywords": [
     "MagnaChain",
@@ -23,10 +23,10 @@
   "dependencies": {
     "async": "^0.9.0",
     "bip38": "^1.3.0",
-    "Mgc-Corelib": "git+ssh:git@github.com:MagnaChain/Mgc-Corelib.git",
+    "mgc-corelib": "git+ssh:git@github.com:MagnaChain/Mgc-Corelib.git",
     "bitcore-lib-cash": "^0.16.1",
-    "Mgc-Mnemonic": "git+ssh:git@github.com:MagnaChain/Mgc-Mnemonic.git",
-    "Mgc-Payment-Protocol": "git+ssh:git@github.com:MagnaChain/Mgc-Payment-Protocol.git",
+    "mgc-mnemonic": "git+ssh:git@github.com:MagnaChain/Mgc-Mnemonic.git",
+    "mgc-payment-protocol": "git+ssh:git@github.com:MagnaChain/Mgc-Payment-Protocol.git",
     "json-stable-stringify": "^1.0.0",
     "lodash": "^4.17.4",
     "preconditions": "^1.0.8",
@@ -34,7 +34,7 @@
     "superagent": "^3.4.1"
   },
   "devDependencies": {
-    "Mgc-Server": "git+ssh:git@github.com:MagnaChain/Mgc-Server.git",
+    "mgc-server": "git+ssh:git@github.com:MagnaChain/Mgc-Server.git",
     "browserify": "^13.1.0",
     "chai": "^1.9.1",
     "coveralls": "^2.11.2",
