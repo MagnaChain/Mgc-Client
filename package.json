@@ -2,7 +2,7 @@
   "name": "mgc-client",
   "description": "Client for Mgc-Server",
   "author": "Felix Lee(ustcerlf@gmail.com)",
-  "version": "6.7.8",
+  "version": "6.7.9",
   "license": "MIT",
   "keywords": [
     "MagnaChain",
