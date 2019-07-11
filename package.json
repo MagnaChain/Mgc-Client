@@ -2,7 +2,7 @@
   "name": "mgc-client",
   "description": "Client for Mgc-Server",
   "author": "Felix Lee(ustcerlf@gmail.com)",
-  "version": "6.7.9",
+  "version": "6.7.11",
   "license": "MIT",
   "keywords": [
     "MagnaChain",
@@ -24,7 +24,6 @@
     "async": "^0.9.0",
     "bip38": "^1.3.0",
     "mgc-corelib": "git+ssh:git@github.com:MagnaChain/Mgc-Corelib.git",
-    "bitcore-lib-cash": "^0.16.1",
     "mgc-mnemonic": "git+ssh:git@github.com:MagnaChain/Mgc-Mnemonic.git",
     "mgc-payment-protocol": "git+ssh:git@github.com:MagnaChain/Mgc-Payment-Protocol.git",
     "json-stable-stringify": "^1.0.0",
