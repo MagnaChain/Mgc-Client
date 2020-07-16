@@ -27,7 +27,7 @@
     "mgc-mnemonic": "git+ssh:git@github.com:MagnaChain/Mgc-Mnemonic.git",
     "mgc-payment-protocol": "git+ssh:git@github.com:MagnaChain/Mgc-Payment-Protocol.git",
     "json-stable-stringify": "^1.0.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "preconditions": "^1.0.8",
     "sjcl": "1.0.3",
     "superagent": "^3.4.1"
