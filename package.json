@@ -21,7 +21,7 @@
     "type": "git"
   },
   "dependencies": {
-    "async": "^0.9.0",
+    "async": "^2.6.4",
     "bip38": "^1.3.0",
     "mgc-corelib": "git+ssh:git@github.com:MagnaChain/Mgc-Corelib.git",
     "mgc-mnemonic": "git+ssh:git@github.com:MagnaChain/Mgc-Mnemonic.git",
